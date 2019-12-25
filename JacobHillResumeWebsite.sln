@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JacobHillResumeWebsite", "JacobHillResumeWebsite\JacobHillResumeWebsite.csproj", "{01358E17-9543-471A-BF93-8E6B61F44E8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NHLAPIClassLibrary", "NHLAPIClassLibrary\NHLAPIClassLibrary.csproj", "{F9B01920-2053-4A8F-835A-4D4041E8E3CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{01358E17-9543-471A-BF93-8E6B61F44E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01358E17-9543-471A-BF93-8E6B61F44E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01358E17-9543-471A-BF93-8E6B61F44E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9B01920-2053-4A8F-835A-4D4041E8E3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9B01920-2053-4A8F-835A-4D4041E8E3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9B01920-2053-4A8F-835A-4D4041E8E3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9B01920-2053-4A8F-835A-4D4041E8E3CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
