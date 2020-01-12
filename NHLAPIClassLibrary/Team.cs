@@ -18,5 +18,10 @@ namespace NHLAPIClassLibrary
         private string shortName { get; set; }
         private string OfficialSiteUrl { get; set; }
         private bool IsActive { get; set; }
+
+        public override string ToString()
+        {
+            return locationName + teamName;
+        }
     }
 }

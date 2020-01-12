@@ -16,5 +16,11 @@ namespace NHLAPIClassLibrary
         private string nationality { get; set; }
         private string height { get; set; }
         private int weight { get; set; }
+
+        public override string ToString()
+        {
+            return fullName;
+        }
+
     }
 }
